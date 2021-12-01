@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q6Gh1jxYx1ZUxx+wn/KH+BDspKf4F1Bhlmhc/rO04ZDwZAPJ/hNl2HmqQZkDDud5Z3bVrOGD/qyuip85JQSZKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PoojaJ\\ImpactTaining\\Docker\\DockerAppWebApiEg2\\DockerAppWebApiEg2\\DockerAppWebApiEg2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PoojaJ\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

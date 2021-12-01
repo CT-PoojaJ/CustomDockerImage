@@ -1,0 +1,7 @@
+C:\Users\PoojaJ\ImpactTaining\Docker\DockerAppWebApiEg2\DockerAppWebApiEg2\obj\Release\netcoreapp3.1\PubTmp\Out\DockerAppWebApiEg2.exe
+C:\Users\PoojaJ\ImpactTaining\Docker\DockerAppWebApiEg2\DockerAppWebApiEg2\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\PoojaJ\ImpactTaining\Docker\DockerAppWebApiEg2\DockerAppWebApiEg2\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\PoojaJ\ImpactTaining\Docker\DockerAppWebApiEg2\DockerAppWebApiEg2\obj\Release\netcoreapp3.1\PubTmp\Out\DockerAppWebApiEg2.dll
+C:\Users\PoojaJ\ImpactTaining\Docker\DockerAppWebApiEg2\DockerAppWebApiEg2\obj\Release\netcoreapp3.1\PubTmp\Out\DockerAppWebApiEg2.deps.json
+C:\Users\PoojaJ\ImpactTaining\Docker\DockerAppWebApiEg2\DockerAppWebApiEg2\obj\Release\netcoreapp3.1\PubTmp\Out\DockerAppWebApiEg2.runtimeconfig.json
+C:\Users\PoojaJ\ImpactTaining\Docker\DockerAppWebApiEg2\DockerAppWebApiEg2\obj\Release\netcoreapp3.1\PubTmp\Out\DockerAppWebApiEg2.pdb
